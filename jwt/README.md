@@ -101,9 +101,9 @@ middleware and add it to the security chain.
 ```go
 import (
   // other imports
-  "githib.com/Microkubes/microservice-security/auth"
-  "githib.com/Microkubes/microservice-security/chain"
-  "githib.com/Microkubes/microservice-security/jwt"
+  "githib.com/blazhovsky/microservice-security/auth"
+  "githib.com/blazhovsky/microservice-security/chain"
+  "githib.com/blazhovsky/microservice-security/jwt"
 )
 func main(){
   // "secret-keys" is the directory containing the RSA keys

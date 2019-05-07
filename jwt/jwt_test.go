@@ -14,7 +14,7 @@ import (
 
 	"golang.org/x/net/context"
 
-	"github.com/Microkubes/microservice-security/auth"
+	"github.com/blazhovsky/microservice-security/auth"
 	jwt "github.com/dgrijalva/jwt-go"
 	"github.com/goadesign/goa"
 	goajwt "github.com/goadesign/goa/middleware/security/jwt"

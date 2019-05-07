@@ -15,7 +15,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/Microkubes/microservice-security/auth"
+	"github.com/blazhovsky/microservice-security/auth"
 	"github.com/goadesign/goa"
 
 	jwt "github.com/dgrijalva/jwt-go"

@@ -6,10 +6,10 @@ import (
 
 	"golang.org/x/net/context"
 
-	"github.com/Microkubes/microservice-security/acl"
-	"github.com/Microkubes/microservice-security/acl/rest/app"
-	"github.com/Microkubes/microservice-security/acl/rest/app/test"
-	"github.com/Microkubes/microservice-security/auth"
+	"github.com/blazhovsky/microservice-security/acl"
+	"github.com/blazhovsky/microservice-security/acl/rest/app"
+	"github.com/blazhovsky/microservice-security/acl/rest/app/test"
+	"github.com/blazhovsky/microservice-security/auth"
 	"github.com/goadesign/goa"
 	"github.com/ory/ladon"
 	uuid "github.com/satori/go.uuid"

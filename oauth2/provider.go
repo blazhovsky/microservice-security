@@ -9,8 +9,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/Microkubes/microservice-security/jwt"
-	"github.com/Microkubes/microservice-security/tools"
+	"github.com/blazhovsky/microservice-security/jwt"
+	"github.com/blazhovsky/microservice-security/tools"
 	"github.com/goadesign/goa"
 	uuid "github.com/satori/go.uuid"
 )

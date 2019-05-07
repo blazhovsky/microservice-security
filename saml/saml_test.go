@@ -17,7 +17,7 @@ import (
 
 	"gopkg.in/h2non/gock.v1"
 
-	"github.com/Microkubes/microservice-security/auth"
+	"github.com/blazhovsky/microservice-security/auth"
 	"github.com/Microkubes/microservice-tools/config"
 	"github.com/crewjam/saml/samlsp"
 	"github.com/dgrijalva/jwt-go"
